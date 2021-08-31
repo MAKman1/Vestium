@@ -1,6 +1,6 @@
 
 Group Name: Semicolons - G2D
-Members: Muhammad Arham Khan, Amirhossein Maghsoudi, Sarah
+Members: Muhammad Arham Khan , Amirhossein Maghsoudi, Sarah
 Javaid, Sayed Abdullah Qutb, Mohamad Fakhouri, Esra Nur
 Deniz, Ahmet Berk Eren
 
